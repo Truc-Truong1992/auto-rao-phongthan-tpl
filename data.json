@@ -1,6 +1,6 @@
 {
-  "is_active": false,
+  "is_active": true,
   "version": "1.0.0",
-  "message": "Chào mừng bạn sử dụng phần mềm! Đây là bản quyền thuộc về 2TStudio",
+  "message": "Chào mừng bạn đến với 2TStudio, hiện tại auto đang bảo trì để cập nhật, vui lòng liên hệ admin để biết thêm chi tiết",
   "tên_nv": "game.exe+0x2AC9B8"
 }
