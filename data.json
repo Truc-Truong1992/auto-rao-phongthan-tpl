@@ -2,9 +2,10 @@
   "is_active": true,
   "version": "1.0.0",
   "message": "Chào mừng bạn đến với 2TStudio, hiện tại auto đang bảo trì để cập nhật, vui lòng liên hệ admin để biết thêm chi tiết",
-  "licensed_machines": [
-    "006vffWXH3TJ60ZZdRECJNMN"
-  ],
+  "licensed_machines": {
+    "006vffWXH3TJ60ZZdRECJNMN": "",
+    "ABCDEF1234567890ABCDEF12": ""
+  },
   "offset_ten_nv": "0x2AC9B8",
   "ptr_chat_base": "0x2ABAA4",
   "offset_chat_final": "0x15E44"
